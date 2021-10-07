@@ -70,5 +70,5 @@ $ make dist-upload
 ```
 $ make docker
 
-$ docker run -it sortli --help
+$ docker run -it booker --help
 ```
